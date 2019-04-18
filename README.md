@@ -1,6 +1,6 @@
 # EXAFS_Monitor
 
-Live Exafs data plotting ang simple analysis
+Live EXAFS data plotting ang simple analysis
 
 Dependencies: pyqtgraph, pyzmq
 
@@ -9,3 +9,4 @@ Dependencies: pyqtgraph, pyzmq
 
   * monitor_data_pub.py - data sending 
 
+  * .dat - data file examples
