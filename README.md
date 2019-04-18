@@ -1,5 +1,5 @@
 # EXAFS_Monitor
+Live Exafs data plotting ang pre-analysis
 
-## 1
-## 2
-## 3
+Dependencies: pyqtgraph, pyzmq
+
