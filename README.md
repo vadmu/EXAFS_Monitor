@@ -10,3 +10,6 @@ Dependencies: pyqtgraph, pyzmq
   * monitor_data_pub.py - data sending 
 
   * .dat - data file examples
+
+
+![Screenshot](Screenshot2b.png)
